@@ -1,4 +1,3 @@
-![VirtualBox_kali-linux-2023 4-virtualbox-amd64_27_04_2024_14_31_33](https://github.com/Aishwarya-TM/EH-EX-6/assets/127846109/015e2527-01d0-4b8f-a548-1d79b3960b3d)# Compromising-windows-using-Metasploit
 Compromising windows using Metasploit
 # Metasploit
 Compromising windows using Metasploit
